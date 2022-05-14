@@ -1,0 +1,10 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Fira Code';
+  overflow: hidden;
+}
+
+.hide {
+  display: none !important;
+}
